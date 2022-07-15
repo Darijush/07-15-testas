@@ -1,0 +1,24 @@
+{
+  "name": "07-15-testas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testas": "nodemon ./js/testas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darijush/07-15-testas.git"
+  },
+  "keywords": [],
+  "author": "Darijush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darijush/07-15-testas/issues"
+  },
+  "homepage": "https://github.com/Darijush/07-15-testas#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
